@@ -1,0 +1,70 @@
+body
+{background-image: url(12.jpg);
+WIDTH:1000PX;
+HeIGHT:1000PX;
+font-size:12pt;
+font-family: Bookman Old Style, serif;
+margin:10px auto;}
+
+#Header 
+{BACKGROUND-IMAGE: URL(Header.JPG);
+width:1000px;
+HeIGHT:158px;}
+a:link {color: #ffff57}
+a:action{color:#ffff57}
+a:visited{color:#ffff57}
+a:hover{font-size :105%}
+
+
+#Nav
+
+{BORDER-BOTTOM:10PX;
+BORDER-LEFT:10PX;
+BORDER-TOP:10PX;
+BORDER-RIGHT:10PX;
+padding-top:10px;
+
+width:200px;
+height:511px;
+BACKGROUND-IMAGE: URL(77.JPG);
+float:left;
+}
+  
+span {font-style: italic; 
+   letter-spacing: 3px;  } 
+p{text-indent:30px;
+margin:0px;
+text-align=justify;} 
+  
+table {color:#ffff57}
+.tshort1{float:left}
+#DIV
+{color:#ffff57;
+BORDER-BOTTOM:10PX;
+BORDER-LEFT:10PX;
+BORDER-TOP:10PX;
+BORDER-RIGHT:10PX;
+WIDTH:800px; 
+HeIGHT:511PX;
+BACKGROUND:#050405;
+overflow:scroll;
+float:right;
+
+}
+
+
+#Footer
+{PADDING-BOTTOM:5PX;
+PADDING-LEFT:5PX;
+PADDING-TOP:5PX;
+PADDING-RIGHT:5PX;
+width:1000px;
+height:30px;
+BACKGROUND:#050405;
+Margin-top:511px;}
+
+    
+
+
+
+
